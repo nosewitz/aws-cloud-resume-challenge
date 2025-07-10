@@ -20,4 +20,4 @@ jobs:
           SOURCE_DIR: 'dummy_resume'
         # ✅ Place args directly (not under `with`)
         with:
-          args: --acl public-read --follow-symlinks --delete
+          args: --follow-symlinks --delete
